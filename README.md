@@ -9,7 +9,7 @@ Contents of this repo:
 
 * preflightB.sh (Bash shell)
 * prefightZ.sh (Z shell)
-* processPrefligh.py (Python script)
+* processPreflight.py (Python script)
 
 ## Comments about using grep, awk, or sed to extract the text Bash
 
