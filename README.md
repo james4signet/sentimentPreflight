@@ -8,7 +8,7 @@ The terminal script versions are examples of how to extract text from a website 
 Contents of this repo:
 
 * preflightB.sh (Bash shell)
-* prefightZ.sh (Z shell)
+* preflightZ.sh (Z shell)
 * processPreflight.py (Python script)
 
 ## Comments about using grep, awk, or sed to extract the text Bash
